@@ -24,14 +24,14 @@ Now applying that into open-source F1 analysis.
 
 ## F1 Projects
 
-### [F1-Telemetry-Analysis](https://github.com/jassim0289/f1-telemetry-analysis)
+### [F1 Telemetry Analysis](https://github.com/jassim0289/f1-telemetry-analysis)
 > Speed traces, sector deltas, and tyre performance analysis using FastF1 — 2024 British GP and 2026 season data. Identifies where laptime is gained and lost across compound stints.
 
 `Python` `FastF1` `Pandas` `Matplotlib`
 
 ---
 
-### [F1-Pitstop-Strategy](https://github.com/jassim0289/f1-pitstop-strategy)
+### [F1 Pitstop Strategy](https://github.com/jassim0289/f1-pitstop-strategy)
 > Monte Carlo race strategy simulator (10,000 iterations). Models undercut/overcut windows, safety car probability, and compound degradation. Medium–Hard one-stop returned a 72.6% simulated win rate on a reference track.
 
 `Python` `NumPy` `Monte Carlo` `Strategy Modelling`
