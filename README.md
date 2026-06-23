@@ -38,7 +38,7 @@ Now applying that into open-source F1 analysis.
 
 ---
 
-### [tyre-degradation-model](https://github.com/jassim0289/tyre-degradation-model)
+### [F1 Tyre Degradation ML](https://github.com/jassim0289/f1-tyre-degradation-ml)
 > Machine learning model to predict lap-by-lap tyre degradation curves from stint data. Inputs: compound, fuel load, track temperature, stint length. Target: degradation rate per lap.
 
 `Python` `Scikit-learn` `FastF1` `Feature Engineering`
@@ -60,7 +60,7 @@ Now applying that into open-source F1 analysis.
 ## MSc Highlights
 
 - **Laptime Simulation** — AVL VSM/Drive Race, 2026 FIA Red Bull model, 6.9% improvement
-- **Aerodynamics** — StarCCM+ CFD for LMGT3: splitter Cl 0.09 → 0.34
+- **Aerodynamics** — StarCCM+ CFD for LMGT3: splitter 
 - **Vehicle Dynamics** — ADAMS + MATLAB on Nissan Skyline GT-R
 - **Dissertation** — Magnetic sensor EV detection system, MATLAB
 
