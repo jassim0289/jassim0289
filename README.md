@@ -38,7 +38,7 @@ Now applying that into open-source F1 analysis.
 
 ---
 
-### Tyre Degradation ML Model *(in progress)*
+### [tyre-degradation-model](https://github.com/jassim0289/tyre-degradation-model)
 > Machine learning model to predict lap-by-lap tyre degradation curves from stint data. Inputs: compound, fuel load, track temperature, stint length. Target: degradation rate per lap.
 
 `Python` `Scikit-learn` `FastF1` `Feature Engineering`
